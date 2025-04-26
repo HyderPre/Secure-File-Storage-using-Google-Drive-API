@@ -109,3 +109,9 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
+
+
+## 📢 Tags for SEO
+
+#SecureCloudStorage #CloudComputing #DataEncryption #GoogleDriveAPI #FileEncryption #AES256 #SecureFileTransfer #EndToEndEncryption #ConfidentialData #PythonEncryption #SecureUpload #CloudSecurity #CyberSecurity #DataPrivacy #EncryptedFiles #GoogleDriveUpload #EncryptionKey #FileSecurity #PrivacyFirst #PythonSecurity #SecureCloud #EncryptionInPython #CloudDataProtection #GoogleDriveIntegration #CryptoProject
+
