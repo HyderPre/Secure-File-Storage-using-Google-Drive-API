@@ -8,7 +8,7 @@ This project **encrypts your files securely** using AES encryption and **uploads
 ### ✉️ Sending Confidential Files 
 
 - If you want to send confidential material securely, you can use this project.
-- **First**, encrypt your file using the encryption tool provided.
+- **First**, encrypt your file using the encryption.
 - **Then**, upload the encrypted file using the provided `index.html` uploader.
 - Share the uploaded Google Drive link with the receiver.
   - **Note:** Since the file is encrypted, even Google Drive **cannot view** the actual content.
