@@ -20,6 +20,7 @@ This project **encrypts your files securely** using AES encryption and **uploads
 
 ---
 
+![Image](https://github.com/user-attachments/assets/7c23b7a0-1b11-4bd5-b7fd-ec5f2e88944b)
 
 ## 🔧 Setup Instructions
 
