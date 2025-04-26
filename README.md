@@ -5,7 +5,7 @@ This project **encrypts your files securely** using AES encryption and **uploads
 
 ---
 
-### ✉️ Sending Confidential Files (Use Case)
+### ✉️ Sending Confidential Files 
 
 - If you want to send confidential material securely, you can use this project.
 - **First**, encrypt your file using the encryption tool provided.
