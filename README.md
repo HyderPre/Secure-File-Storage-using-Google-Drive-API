@@ -23,6 +23,8 @@ This is how your file folder should look like this:
  **`encrypted_files`**  &  **`encryption_key.key`** will be auto generated, so don't worry 
 ![Image](https://github.com/user-attachments/assets/7c23b7a0-1b11-4bd5-b7fd-ec5f2e88944b)
 
+---
+
 ## 🔧 Setup Instructions
 
 ### 1. Clone this Repository
