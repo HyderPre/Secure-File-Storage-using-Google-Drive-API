@@ -56,6 +56,30 @@ After downloading the JSON file,
 
 ---
 
+# ⚙️ How to Use
+
+## ➡️ To Encrypt and Upload File
+
+```bash
+python app.py
+```
+
+- This will **encrypt** your file and **upload** it to **Google Drive automatically**.
+- The **encryption key** (`encryption_key.key`) will be saved safely.
+
+---
+
+## ➡️ To Decrypt the Downloaded File
+
+```bash
+python decrypt_file.py
+```
+
+- Make sure you have the `.key` file.
+- The **decrypted file** will be restored to its **original format**.
+
+---
+
 ## 🔐 How Encryption Works
 - AES-256 Encryption using the `pycryptodome` library.
 - A random encryption key and initialization vector (IV) are generated.
